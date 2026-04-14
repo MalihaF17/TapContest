@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ট্যাপ কনটেস্ট</string>
+    <string name="score_text">স্কোর: %1$d - %2$d</string>
+    <string name="team_a_button">দল A +১</string>
+    <string name="team_b_button">দল B +১</string>
+    <string name="reset_button">রিসেট</string>
+</resources>
